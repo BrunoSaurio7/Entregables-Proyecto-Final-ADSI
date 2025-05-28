@@ -16,5 +16,7 @@ https://www.figma.com/design/PlsIl8lepnr56OCDkBw3hq/Untitled?node-id=210-1450&p=
 
 ## Pruebas
 ### 1
+https://app.lyssna.com/do/qfof3tvwih2z/rf53ad
 
 ### 2
+https://app.lyssna.com/do/ywhk8mtiliod/mkdp08
