@@ -12,7 +12,7 @@ Entregables para el proyecto final de la materia de Análisis y Diseño de Siste
 https://docs.google.com/spreadsheets/d/1O8m1Hc-aVbK4RQz3h1f7LIofxDKwHu93u-PbBqt8kQI/edit?usp=sharing
 
 ## URL con el proyecto funcionando en figma
-https://www.figma.com/design/PlsIl8lepnr56OCDkBw3hq/Untitled?node-id=210-1450&p=f&t=ktFHH9YhDuB5b6Rj-0
+https://www.figma.com/proto/PlsIl8lepnr56OCDkBw3hq/Untitled?node-id=220-2255&p=f&t=fnJJA0vfjPwX7015-1&scaling=scale-down&content-scaling=fixed&page-id=210%3A1450&starting-point-node-id=220%3A2255
 
 ## Pruebas
 ### 1
