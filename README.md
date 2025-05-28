@@ -6,7 +6,7 @@ Entregables para el proyecto final de la materia de Análisis y Diseño de Siste
 ## Integrantes
 - Bruno Pérez
 - Fernando Villalobos
-- Karla Vargas
+- Karla Saenz
 
 ## Backlog actualizado para la última iteración
 https://docs.google.com/spreadsheets/d/1O8m1Hc-aVbK4RQz3h1f7LIofxDKwHu93u-PbBqt8kQI/edit?usp=sharing
